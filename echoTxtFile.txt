@@ -1,0 +1,7 @@
+ "Hello World. -Created by echo command." 
+	This File is Modified with nano command.
+	nano txtName.txt
+
+	Ako ne postioi file so imeto, se kreira nov prazen, vo sekoj sluchaj
+	se otvara file-ot so toa ime.
+	
